@@ -48,6 +48,12 @@ This QA project covers functional and usability testing for Amazon's core featur
 | `assets/screenshots/` | Screenshots supporting defects and verifications   |
 
 ---
+## Artifacts Included:
+- Test plans (Excel/Google Sheets)
+- Test cases with step-by-step execution logs
+- Screenshots (where applicable)
+- Bug reports (JIRA/Excel templates)
+
 # Amazon E-commerce Project
 
 ## Documents
